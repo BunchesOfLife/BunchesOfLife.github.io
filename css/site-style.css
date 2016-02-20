@@ -1,0 +1,32 @@
+body {
+	background-color: #FF8533;
+}
+
+table {
+	border: 1px solid #000093;
+}
+
+th {
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 4px;
+	padding-top: 4px;
+}
+
+h1 {
+	color: #1919FF;
+}
+
+h2 {
+	color: #5959DE;
+	border-bottom: 1px solid #5959DE;
+}
+
+img {
+	width: 515px;
+	height: 386px;
+}
+
+div {
+	text-align: center;
+}
